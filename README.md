@@ -109,6 +109,7 @@ public class EnemyShootScript : MonoBehaviour
         nextFireTime = Time.time + 1f / fireRate;
     }
 }
+```
 
 ---
 
